@@ -43,6 +43,7 @@ console.log(metaTagsHtml);
 Implementing rich OpenGraph and Twitter cards ensures that your website looks beautiful when shared across social channels, drastically improving Click-Through Rates (CTR) and boosting your overall SEO rankings on search engines like Google and Bing.
 
 
+
 ---
 
 ## 🚀 Discover More from Stackaura
@@ -60,4 +61,5 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
 
