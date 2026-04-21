@@ -1,0 +1,18 @@
+{
+  "name": "seo-meta-generator",
+  "version": "1.0.0",
+  "description": "A dynamic Node.js script to automatically generate high-SEO OpenGraph and Twitter cards meta tags.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "seo",
+    "meta-tags",
+    "opengraph",
+    "twitter-cards",
+    "seo-generator"
+  ],
+  "author": "Ahmar Hussain",
+  "license": "MIT"
+}
