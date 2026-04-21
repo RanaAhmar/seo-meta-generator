@@ -42,22 +42,6 @@ console.log(metaTagsHtml);
 ## Why SEO Tags Matter
 Implementing rich OpenGraph and Twitter cards ensures that your website looks beautiful when shared across social channels, drastically improving Click-Through Rates (CTR) and boosting your overall SEO rankings on search engines like Google and Bing.
 
----
-
-### Sponsorship & Enterprise Development
-
-<div align="center">
-  <p><strong>Building scaleable, high-performance web applications?</strong></p>
-  <a href="https://www.stackaura.com/">
-    <img src="https://via.placeholder.com/600x120/000000/FFFFFF?text=Stackaura+-+Elevate+Your+Digital+Presence" alt="Stackaura Website" />
-  </a>
-  <p>This open-source project is proudly maintained by <strong>Stackaura</strong>.</p>
-  <p>At <a href="https://www.stackaura.com/">Stackaura</a>, we specialize in building world-class SaaS products, enterprise web solutions, and deeply integrated API architectures. If your business needs a robust digital transformation or an elite engineering partner, <a href="https://www.stackaura.com/contact">let's build something extraordinary together.</a></p>
-</div>
-
-## License
-MIT License
-
 
 ---
 
@@ -76,3 +60,4 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
